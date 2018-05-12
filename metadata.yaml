@@ -1,0 +1,28 @@
+_repo: Hand-Loom-Weaving--A-Manual-for-School-and-Home_31630
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Todd, Mattie Phipps
+    gutenberg_agent_id: '35369'
+    url: http://www.gutenberg.org/2009/agents/35369
+description: ''
+gutenberg_bookshelf:
+- Technology
+- Crafts
+gutenberg_issued: '2010-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31630'
+  lccn: 02028494
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weaving'
+- !lcc 'TT'
+title: 'Hand-Loom Weaving: A Manual for School and Home'
+url: http://www.gutenberg.org/ebooks/31630
